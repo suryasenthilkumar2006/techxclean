@@ -1,0 +1,3 @@
+[submodule "techx"]
+  path = techx
+  url = https://github.com/suryasenthilkumar2006/techx-2.git
